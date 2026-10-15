@@ -1,0 +1,10 @@
+{
+  "name": "dubai777-functions",
+  "description": "Firebase callable functions for safe demo requests",
+  "main": "index.js",
+  "engines": { "node": "20" },
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "firebase-functions": "^6.1.1"
+  }
+}
